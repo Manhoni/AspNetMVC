@@ -201,7 +201,7 @@ Este projeto é de código aberto para fins educacionais.
 
 Desenvolvido durante estudos de ASP.NET Core MVC e Entity Framework.
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- GitHub: [@Manhoni](https://github.com/Manhoni)
 
 ---
 
